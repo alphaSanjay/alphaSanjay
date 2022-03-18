@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @alphaSanjay
-- 👀 I’m interested in computer and tech
-- 🌱 I’m currently learning computer science engineering 
-- 💞️ I’m looking to collaborate on tech companies 
+🔥Hi i'm Sanjay_P
+🔥I'm doing graduation in Computer Science Engineering 
+🔥I'm from India
+
 
 
 <!---
